@@ -5,7 +5,8 @@ Note: The sign of the doppler frequency is not explicitly stated by Infineon.
 As a result, doppler_frequency_hz (in Radar lab.pdf figure 20) is the absolute value of the doppler frequency.
 
 
-- AUTHOR 
+- AUTHOR: Aicha Naya SOW
+
 Radar_lab.pdf is written in its entirety by Aicha Naya SOW.
 As well as: 
  IQ_data_Processing.m
